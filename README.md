@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML5<br> 
 CSS3<br> 
-JavaScript (animações)
+JavaScript 
 
 
 ## 🌐 Projeto final
