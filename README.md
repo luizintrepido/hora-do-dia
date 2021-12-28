@@ -15,8 +15,7 @@ JavaScript
 ## 🌐 Projeto final
 [Clique aqui](https://luizintrepido.github.io/hora-do-dia/) para acessar o projeto no ar!
 
-<img align="center">![image](https://user-images.githubusercontent.com/93409913/147614877-3f02c57c-0fa8-40bf-bf78-d36780095415.png)</img>
-
+![image](https://user-images.githubusercontent.com/93409913/147615077-59bd250c-215e-4409-80af-c94f09c8d9e0.png)
 
 
 ---
